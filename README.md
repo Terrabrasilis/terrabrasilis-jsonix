@@ -115,7 +115,7 @@ You can also `marshalString`.
 
 ## Credits
 
-![Logo WebStorm](images/logo_WebStorm.png)
+![Logo WebStorm](https://raw.githubusercontent.com/Terrabrasilis/jsonix/master/images/logo_WebStorm.png)
 
 Jsonix is developed with [WebStorm](https://www.jetbrains.com/webstorm/), the smartest JavaScript IDE.  
 Many thanks to [JetBrains](https://www.jetbrains.com) for providing a free open-source license for Jsonix development.
