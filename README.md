@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jsonix
 
 * Jsonix (JSON interfaces for XML) is a JavaScript library which allows you to convert between XML and JSON structures.
@@ -119,3 +120,6 @@ You can also `marshalString`.
 
 Jsonix is developed with [WebStorm](https://www.jetbrains.com/webstorm/), the smartest JavaScript IDE.  
 Many thanks to [JetBrains](https://www.jetbrains.com) for providing a free open-source license for Jsonix development.
+=======
+# terrabrasilis-jsonix
+>>>>>>> e6b96b65b5e2b4daee2d9cf20782eaa510436184
